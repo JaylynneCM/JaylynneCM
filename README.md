@@ -9,4 +9,4 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 
 ## Interests
 - sewing
-- 
+- Traveling
