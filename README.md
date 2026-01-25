@@ -4,7 +4,7 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
-- 📊 Learning Python, pandas, and data visualization
+- 📊 Learning Python, Pandas, and Data Visualization
 - 🌱 Enthusiast in Artificial Intelligence.
   
 - Sewing: Sustainable, circular fashion.
