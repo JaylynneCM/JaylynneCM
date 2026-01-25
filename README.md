@@ -10,9 +10,9 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 - Sewing: Sustainable, circular fashion.
 - Traveling: Exploring the world one flight at a time.
 
-🛠 Tech 
-💻   Python | JavaScript 
-🔧   Google Collab 
+- 🛠 Tech 
+- 💻 Python 
+- 🔧 Google Collab 
 
 
 
