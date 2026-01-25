@@ -14,7 +14,7 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 🛠 Tech 
 💻   Python | JavaScript 
 🔧   Google Collab 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 
 <div align="center">
   <a href="https://bento.me/kenangain">
