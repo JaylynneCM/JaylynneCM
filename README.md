@@ -24,10 +24,10 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 <div align="center">
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
+  <p> connect on these platforms!</p>
 
  | Jaylynne Calderon Monterroso | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- |
-| [![Jaylynne Monterroso](instagram.com/jaylynnemonterroso)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+| [![Jaylynne Monterroso](instagram.com/jaylynnemonterroso)](instagram.com/jaylynnemonterroso) | [![Jaylynne Calderon](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Jaylynne Monterroso](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Jaylynne Calderon](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
 
 
