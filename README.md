@@ -4,9 +4,13 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: jaylynnemonterroso@gmail.com
+- 📊 Learning Python, pandas, and data visualization
+- 🌱 Enthusiast in Artificial Intelligence.
+- 🧵 Creative Entrepreneur: I design and sell upcycled clothing. I use **consumer insights and platform analytics** to optimize pricing and sales trends.
+  
+- Sewing: Sustainable, circular fashion.
+- Traveling: Exploring the world one flight at a time.
 
-## Interests
-- Sewing
-- Traveling
+##🛠 Tech 
+💻   Python | JavaScript 
+🔧   Google Collab 
