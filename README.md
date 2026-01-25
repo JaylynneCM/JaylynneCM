@@ -14,4 +14,3 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 ##🛠 Tech 
 💻   Python | JavaScript 
 🔧   Google Collab 
-# ![Skills](https://img.shields.io/badge/---Technical%20Skills----blue?style=for-the-badge)
