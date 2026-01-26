@@ -1,5 +1,7 @@
 # Hi, I'm *Jaylynne*! 👋
 
+Hello! I’m Jaylynne, a Clothing Entrepreneur with a passion for leveraging technology to solve creative problems. I am currently honing my skills in Python and Data Science to better understand consumer trends and build smarter digital solutions. I love the intersection of business logic and clean code.
+
 I'm a student at the University of Notre Dame studying Economics and Latino Studies with a minor in Data Science.
 
 ## About Me
@@ -12,7 +14,7 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 - ✈️Traveling: Exploring the world one flight at a time.
 
 ## Tech
-- 💻 Python 
+- 💻 Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 🔧 Google Collab
 - 📈 Stata
 
