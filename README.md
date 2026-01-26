@@ -12,7 +12,7 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 ## Tech
 - 💻 Python 
 - 🔧 Google Collab
-- Stata
+- 📈 Stata
 
 
 
@@ -24,7 +24,7 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 <div align="center">
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <p> connect on these platforms!</p>
+  <p> I'm on these platforms!</p>
 
 
 | Instagram | LinkedIn |
