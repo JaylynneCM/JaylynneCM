@@ -7,8 +7,8 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 - 📊 Learning Python, Pandas, and Data Visualization
 - 🌱 Enthusiast in Artificial Intelligence.
 ## My Interests! 
-- Sewing: Sustainable, circular fashion.
-- Traveling: Exploring the world one flight at a time.
+- 🪡🧵Sewing: Sustainable, circular fashion.
+- ✈️Traveling: Exploring the world one flight at a time.
 ## Tech
 - 💻 Python 
 - 🔧 Google Collab
