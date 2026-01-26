@@ -13,7 +13,8 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 - 💻 Python 
 - 🔧 Google Collab
 - 📈 Stata
-
+## Featured Projects
+* 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
 
 
 
