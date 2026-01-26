@@ -17,8 +17,8 @@ I'm a student at the University of Notre Dame studying Economics and Latino Stud
 * 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
 
 
-<p align="center"> 
-  𑁍︎━━━━━━━━━━━━━━━━━━━ 𑁍︎ ━━━━━━━━━━━━━━━━━━━𑁍︎━━━━━━━━━━━━━━━━━━━ 𑁍︎ 
+<p align="center">
+  ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡
 </p>
 
 <div align="center">
