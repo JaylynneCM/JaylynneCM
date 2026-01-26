@@ -7,7 +7,7 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🎓 Currently taking Introduction to Data Science
 - 📊 Learning Python, Pandas, and Data Visualization
 - 🌱 Enthusiast in Artificial Intelligence.
-- 
+  
 ## My Interests! 
 - 🪡🧵Sewing: Sustainable, circular fashion.
 - ✈️Traveling: Exploring the world one flight at a time.
@@ -23,7 +23,7 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 <p align="center">
   ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ
 </p>
-
+<br>
 <div align="center">
 <div align="center">
   <h2>🌐 Connect with Me</h2> 
