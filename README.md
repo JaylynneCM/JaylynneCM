@@ -1,4 +1,9 @@
 # Hi, I'm *Jaylynne*! 👋
+<br>
+<p align="center">
+  ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ
+</p>
+<br>
 ## About Me
 Hello! I’m Jaylynne, a Clothing Entrepreneur with a passion for utilizing technology to solve creative problems. I am currently expanding my skills in Python and Data Science to better understand consumer trends and build smarter digital solutions. I love the intersection of business logic, visualizations, and code.
 
