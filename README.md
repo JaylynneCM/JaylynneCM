@@ -7,7 +7,7 @@
   
 ## About Me
   
-Hello! I’m Jaylynne, a Clothing Entrepreneur with a passion for utilizing technology to solve creative problems. I am currently expanding my skills in Python and Data Science to better understand consumer trends and build smarter digital solutions. I love the intersection of business logic, visualizations, and code.
+Hello! I’m Jaylynne, a Clothing Entrepreneur with a passion for utilizing technology to solve creative problems. I am currently expanding my skills in Python and Data Science to better understand consumer trends and build smarter digital solutions. I am passionate about the intersection of business logic, visualizations, and code.
 
 ## Education
 I'm a junior at the University of Notre Dame studying Economics and Latino Studies with a minor in Data Science.
