@@ -19,7 +19,7 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🪡🧵Sewing: Sustainable, circular fashion.
 - ✈️Traveling: Exploring the world one flight at a time.
 
-## ⭐ Tech
+## ⭐ Skills
 - 💻 Python 
 - 🔧 Google Collab
 - 📈 Stata
