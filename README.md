@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jaylynne!.md 👋
+<h1> Hi, I'm Jaylynne!👋
 <br>
 <h4>
   <p align="center">
