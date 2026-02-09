@@ -16,8 +16,9 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🌱 Enthusiast in Artificial Intelligence.
   
 ## ⭐ My Interests! 
-- 🪡🧵Sewing: Sustainable, circular fashion.
+- 🪡🧵Sewing: Sustainable, upcycled fashion.
 - ✈️Traveling: My favorite place so far has been Vienna!
+- 🎵 Music: My favorite artist is Lana Del Rey.
 
 ## ⭐ Skills:
 - 💻 Python 
