@@ -17,7 +17,7 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
   
 ## ⭐ My Interests! 
 - 🪡🧵Sewing: Sustainable, circular fashion.
-- ✈️Traveling: Exploring the world one flight at a time.
+- ✈️Traveling: My favorite place so far has been Vienna!
 
 ## ⭐ Skills
 - 💻 Python 
