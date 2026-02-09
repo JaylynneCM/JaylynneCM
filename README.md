@@ -24,9 +24,10 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🔧 Google Collab
 - 📈 Stata
 
-## ⭐ Featured Projects
+## ⭐ Current Projects
 * 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
 <br>
+* Streamlit Online Sales Analysis
 <p align="center">
   ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ
 </p>
