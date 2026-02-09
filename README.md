@@ -5,11 +5,11 @@
   ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ
 </p>
   
-## ⭐ About Me
+## ⭐ About Me:
   
 Hello! I’m Jaylynne, a Clothing Entrepreneur with a passion for utilizing technology to solve creative problems. I am currently expanding my skills in Python and Data Science to better understand consumer trends and build smarter digital solutions. I am passionate about the intersection of business logic, visualizations, and code.
 
-## ⭐ Education
+## ⭐ Education:
 I'm a junior at the University of Notre Dame studying Economics and Latino Studies with a minor in Data Science.
 - 🎓 Currently taking Introduction to Data Science
 - 📊 Learning Python, Pandas, and Data Visualization
@@ -19,15 +19,18 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🪡🧵Sewing: Sustainable, circular fashion.
 - ✈️Traveling: My favorite place so far has been Vienna!
 
-## ⭐ Skills
+## ⭐ Skills:
 - 💻 Python 
 - 🔧 Google Collab
 - 📈 Stata
 
-## ⭐ Current Projects
+## ⭐ Current Projects:
 * 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
-<br>
 * Streamlit Online Sales Analysis
+## ⭐ Goals:
+* Advancing my Python Data Stack: Developing stronger proficiency in Seaborn and Plotly for interactive storytelling.
+* Deep Learning & NLP: Exploring neural networks and Natural Language Processing to find insights from unstructured data
+<br>
 <p align="center">
   ｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡.｡･ﾟﾟ･𑁍︎･ﾟﾟ･｡｡･ﾟﾟ
 </p>
