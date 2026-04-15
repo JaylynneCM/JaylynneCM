@@ -27,7 +27,7 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 
 ## ⭐ Current Projects:
 * 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
-* [Tidy Data Project](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio/tree/main/TidyData-Project) ⬅️ Click here to see my most recent project!
+* [Machine Learing Streamlit App](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio/tree/main/MLStreamlitApp) ⬅️ Click here to see my most recent project!
 ## ⭐ Goals:
 * Advancing my Python Data Stack: Developing stronger proficiency in Seaborn and Plotly for interactive storytelling.
 * Deep Learning & NLP: Exploring neural networks and Natural Language Processing to find insights from unstructured data
