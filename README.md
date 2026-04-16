@@ -21,9 +21,10 @@ I'm a junior at the University of Notre Dame studying Economics and Latino Studi
 - 🎵 Music: My favorite artist is Lana Del Rey.
 
 ## ⭐ Skills:
-- 💻 Python 
-- 🔧 Google Collab
-- 📈 Stata
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-0A507B?style=for-the-badge&logo=stata&logoColor=white)
+
 
 ## ⭐ Current Projects:
 * 📂[Data Science Portfolio](https://github.com/JaylynneCM/Monterroso-Data-Science-Portfolio) - Contains data science projects and coursework.
